@@ -7,5 +7,5 @@ For this purpose, this scripts utilize UCSC tagged corpus. In this corpus, all w
 2: This scripts compare words in Wikipedia Corpus and words in the list.  
 3: If the word is same, then the word in Wikipedia Corpus will be replaced by the corresponding one in the list.  
 4. Elif the word in Wikipedia Corpus has no corresponding word in the list, then the word in Wikipedia Corpus will remain unmodified.  
-## Result: Moderately useful tagged corpus
+## Result: Moderately reliable tagged corpus
 The resulted tagged corpus are relatively useful one. Impressionally about 80% of the words are automatically tagged.
