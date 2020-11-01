@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-import re
-import collections
-import csv
+import re, csv, collections
 
 #タグ付きコーパスに含まれる語形とタグをリストにする
 f_tagged = open("./tagged_corpus.txt","r")
